@@ -12,7 +12,7 @@
 * Django
 * Django REST framework
 * FastAPI
-* PyTest
+* Pytest
 * PostgreSQL
 * Docker
 * CI/CD
