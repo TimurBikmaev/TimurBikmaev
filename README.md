@@ -20,7 +20,7 @@
 * JSON
 * Git
 * GitHub
-* SQLAlhemy
+* SQLAlchemy
 * Requests
 * Gunicorn
 * Nginx
